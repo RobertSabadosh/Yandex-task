@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="SearchItemTest" verbose="1" >
+    <test name="SearchItemTest" >
+        <classes>
+            <class name="com.exam.testTask.tests.SearchItemTest" />
+        </classes>
+    </test>
+</suite>
